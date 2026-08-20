@@ -1,0 +1,8 @@
+{
+  "name": "فروشگاه خدمات دیجیتال",
+  "description": "مینی‌اپ تلگرام برای فروش خدمات دیجیتال (فیلترشکن، سرور، هوش مصنوعی)",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
